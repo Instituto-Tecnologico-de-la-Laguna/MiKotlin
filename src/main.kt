@@ -3,5 +3,6 @@ fun main() {
     println("Agregar nombre del alumno");
     println("Agregando linea de condigo");
     println("Luis Mota")
+    println("Haber si ya quedo")
 
 }
