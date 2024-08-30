@@ -2,8 +2,8 @@
 // PRACTICA 1
 // Juan Fernando Vaquera Sanchez
 // 21130869
-// Modificar el  programa en el cual se ingresen cuatro números enteros,
-// calcular e informar la suma de los dos primeros
+// Modificar el  programa en el cual se ingresen cuatro números
+// enteros, calcular e informar la suma de los dos primeros
 // y el producto del tercero y el cuarto
 
 fun main() {
