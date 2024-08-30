@@ -1,6 +1,6 @@
 
 fun main() {
-   // println("Hello, World")//Scarlett seceña
+   // println("Hello, World")//Scarlett s
     println("Ingresa el primer numero:")
     val n1 = readln().toInt()
     println("Ingresa el segundo numero")
