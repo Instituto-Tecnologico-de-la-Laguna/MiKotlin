@@ -2,7 +2,6 @@ fun main() {
 
     val scanner = java.util.Scanner(System.`in`)
 
-    println("Neo Brandon Maldonado Paz\n")
 
     println("Ingrese el primer número entero:")
     val n1 = scanner.nextInt()
