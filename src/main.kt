@@ -1,5 +1,5 @@
 fun main() {
-    //SEBASTIAN RODRIGUEZ CERVANTES
+    //SEBASTIAN RODRIGUEZ CERVANTES 21130884
     print("Ingrese primer valor:")
     val valor1 = readln().toInt()
     print("Ingrese segundo valor:")
