@@ -14,6 +14,6 @@ fun main() {
     val producto = n3 * n4
 
     println("La suma de $n1 + $n2 es: $suma")
-    println("El producto de $n3 * $n4 es: $producto")
+    println("El producto de $n3 * $n4 es: $producto")//
 
 }
