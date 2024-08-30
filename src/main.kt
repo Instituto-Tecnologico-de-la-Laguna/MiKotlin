@@ -1,5 +1,5 @@
 fun main() {
-    // println("Hello, World") // Isaac Burciaga Chacón 21130937
+    // println("Hello, World") // Isaac Burciaga Chacón 21130937.
 
     // Suma
     print("Ingrese el primer valor: ")
