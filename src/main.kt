@@ -1,3 +1,3 @@
 fun main() {
-    println("Hello, World") // Layla Vanessa Glz Mtz.
+    println("Hello, World") // Layla Vanessa Glz Mtz
 }
