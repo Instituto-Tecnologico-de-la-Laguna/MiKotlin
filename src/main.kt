@@ -15,7 +15,7 @@ fun main() {
     val GREEN = "\u001B[32m"
     val RESET = "\u001B[0m"
 
-    println("${RED}Hello, World desde Kotlin. Soy un programa muy bien educado y tedioso =)${RESET}") //Alejandro_Martínez
+    println("${RED}Hello, World desde Kotlin. Soy un programa muy bien educado y tedioso =)${RESET}") //Alejandro_Martínez_Escobedo
 
     println("Ingresa el primer número, por favor: ")
         val numero1 = readLine()!!.toInt()
