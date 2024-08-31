@@ -11,6 +11,6 @@ fun main(argumento: Array<String>) {
     val valor4 = readln().toInt()
     val suma = valor1 + valor2
     println("La suma de $valor1 y $valor2 es $suma")
-    val producto = valor1 * valor2
+    val producto = valor3 * valor4
     println("El producto de $valor3 y $valor4 es $producto")
 }
