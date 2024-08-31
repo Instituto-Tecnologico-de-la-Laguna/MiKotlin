@@ -8,7 +8,7 @@ fun main(argumento: Array<String>) {
     print("Ingrese el tercer valor")
     val valor3 = readln().toInt()
     print("Ingrese el cuarto valor")
-    valor valor4 = readln().toInt()
+    val valor4 = readln().toInt()
     val suma = valor1 + valor2
     println("La suma de $valor1 y $valor2 es $suma")
     val producto = valor1 * valor2
