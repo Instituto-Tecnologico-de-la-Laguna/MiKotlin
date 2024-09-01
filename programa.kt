@@ -12,7 +12,6 @@ fun main() {
     val num3 = readLine()!!.toInt()
     print("Ingrese el cuarto número: ")
     val num4 = readLine()!!.toInt()
-
     // Calcular la suma de los dos primeros números
     val suma = num1 + num2
 
